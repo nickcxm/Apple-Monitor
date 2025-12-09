@@ -9,7 +9,7 @@ import lombok.Data;
  * 包含各种推送方式的配置信息
  * 支持Bark推送（iOS）和飞书机器人推送
  * 
- * @author moshi itning
+ * @author moshi
  */
 @SuppressWarnings("all")
 @Data
